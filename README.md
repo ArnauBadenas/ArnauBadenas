@@ -18,4 +18,3 @@ I'm a web developer who recently decided to dive into game development.
 ![Arnau's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnauBadenas&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnauBadenas&layout=compact&theme=dark&hide_border=true)
 
 ![Metrics](/github-metrics.svg)
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
